@@ -1,6 +1,6 @@
 {
-    "latest_version": "7.7.9.0",
+    "latest_version": "7.8.0.0",
     "msix_download_url": "https://raw.githubusercontent.com/TacticsPro/Office_Tools_Latest_Version/refs/heads/main/Office_Tools_MSIX.msix",
     "msi_download_url": "https://raw.githubusercontent.com/TacticsPro/Office_Tools_Latest_Version/refs/heads/main/Office_Tools_MSI.msi",
-    "release_notes": "Added Greetings Check 10-09-2025"
+    "release_notes": "Added HSN.json 10-09-2025"
 }
